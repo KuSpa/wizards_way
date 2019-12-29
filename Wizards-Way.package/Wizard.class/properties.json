@@ -1,0 +1,15 @@
+{
+	"category" : "Wizards-Way",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"velocity",
+		"standsOnGround" ],
+	"name" : "Wizard",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

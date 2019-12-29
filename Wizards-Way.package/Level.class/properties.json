@@ -1,0 +1,15 @@
+{
+	"category" : "Wizards-Way",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"player",
+		"selected" ],
+	"name" : "Level",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
