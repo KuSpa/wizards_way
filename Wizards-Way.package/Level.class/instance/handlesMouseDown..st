@@ -1,5 +1,5 @@
 event handling
-handleMouseMove: anEvent
+handlesMouseDown: anEvent
 
 	^false
 		

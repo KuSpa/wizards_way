@@ -1,5 +1,9 @@
 {
 	"class" : {
-		"gravity" : "KuSpa 12/27/2019 14:08" },
+		"gravity" : "KuSpa 1/6/2020 15:22" },
 	"instance" : {
-		"initialize" : "KuSpa 12/27/2019 14:02" } }
+		"handlesKeyboard:" : "KuSpa 12/29/2019 17:29",
+		"handlesKeydown:" : "KuSpa 12/29/2019 17:32",
+		"handlesMouse:" : "KuSpa 1/6/2020 16:00",
+		"handlesMouseDown:" : "KuSpa 1/6/2020 16:00",
+		"initialize" : "KuSpa 1/6/2020 16:05" } }

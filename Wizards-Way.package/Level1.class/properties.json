@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"velocity" ],
-	"name" : "Wizard",
+		 ],
+	"name" : "Level1",
 	"pools" : [
 		 ],
-	"super" : "GameMorph",
+	"super" : "Level",
 	"type" : "normal" }

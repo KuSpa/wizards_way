@@ -2,11 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
+		"buildLevelSpecs" : "KuSpa 1/6/2020 15:11",
 		"click:" : "KuSpa 12/27/2019 13:41",
 		"contains:" : "KuSpa 12/27/2019 13:25",
-		"handleMouseDown:" : "KuSpa 12/27/2019 13:42",
-		"handleMouseMove:" : "KuSpa 12/27/2019 13:42",
-		"initialize" : "KuSpa 12/27/2019 14:02",
+		"defaultColor" : "KuSpa 12/29/2019 17:04",
+		"handlesMouseDown:" : "KuSpa 12/29/2019 17:30",
+		"initialize" : "KuSpa 12/29/2019 17:02",
 		"mouseDown:" : "KuSpa 12/27/2019 13:49",
 		"mouseMove:" : "KuSpa 12/27/2019 13:32",
-		"reset" : "KuSpa 12/27/2019 14:04" } }
+		"platforms" : "KuSpa 1/6/2020 14:28",
+		"reset" : "KuSpa 1/6/2020 14:05" } }

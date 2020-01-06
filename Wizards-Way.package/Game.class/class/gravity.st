@@ -2,4 +2,4 @@ as yet unclassified
 gravity
 
 	
-	^ 0.0015
+	^ 0.35

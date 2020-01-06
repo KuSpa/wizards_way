@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"velocity" ],
-	"name" : "Wizard",
+		"lastBounds" ],
+	"name" : "GameMorph",
 	"pools" : [
 		 ],
-	"super" : "GameMorph",
+	"super" : "Morph",
 	"type" : "normal" }

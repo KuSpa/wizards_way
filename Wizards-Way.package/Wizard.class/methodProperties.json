@@ -3,6 +3,5 @@
 		 },
 	"instance" : {
 		"initialize" : "KuSpa 12/27/2019 14:07",
-		"moveVerticalBy:" : "KuSpa 12/26/2019 20:31",
-		"step" : "KuSpa 12/27/2019 14:07",
-		"stepTime" : "KuSpa 12/27/2019 12:57" } }
+		"moveVerticallyBy:" : "KuSpa 1/6/2020 15:27",
+		"step" : "KuSpa 1/6/2020 16:39" } }
